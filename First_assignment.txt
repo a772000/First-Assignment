@@ -1,6 +1,6 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
 
-
+To be honest, after completing 12th grade I had no idea that I would be studying Bioinformatics. ... They pointed out that its highly interdisciplinary and will help me to even switch courses during higher studies in future which was a strong enough motivation for me to study Bioinformatics.
 
 
 
@@ -10,3 +10,5 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+ learning programming languages..
+coding ...
