@@ -1,6 +1,6 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
 
-
+An intresting subject for me...i was always fascinated when there is use of computational technique for biological solution..it gained me intrest in it..
 
 
 
@@ -10,3 +10,4 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+programming language like python,R programming and knowledge of AI in biology
